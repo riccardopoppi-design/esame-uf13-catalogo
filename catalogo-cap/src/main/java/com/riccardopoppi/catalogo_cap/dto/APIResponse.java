@@ -1,4 +1,4 @@
-package dto;
+package com.riccardopoppi.catalogo_cap.dto;
 
 import com.fasterxml.jackson.annotation.JsonInclude;
 import lombok.AllArgsConstructor;
